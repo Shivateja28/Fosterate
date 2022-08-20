@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999008064262",
+    "project_id": "fir-1-680ae",
+    "storage_bucket": "fir-1-680ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999008064262:android:a7d6e7c819237b9e840487",
+        "android_client_info": {
+          "package_name": "com.example.fosterateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999008064262-maulmbjadsbjen62sn2p9nt285dghsci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsL8cvpz3a_EwBcxNGH_zYoG8X1nvQuLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999008064262-maulmbjadsbjen62sn2p9nt285dghsci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

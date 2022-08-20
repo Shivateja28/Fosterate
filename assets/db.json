@@ -1,0 +1,46 @@
+[
+    {
+        "employeeId" : "20071A0481",
+        "Name" : "Akhil",
+        "PhoneNumber" : "8042251708",
+        "MailId" : "akhilkouda@gmail.com",
+        "Gender" : "Male",
+        "ImageUrl" : "ijf",
+        "Role" : "HR",
+        "WorkStatus" : "In Progress",
+        "Dob" : "18/07/2002"
+    },
+    {
+        "employeeId" : "20071A0518",
+        "Name" : "Manideep",
+        "PhoneNumber" : "7838401708",
+        "MailId" : "manideep@gmail.com",
+        "Gender" : "Male",
+        "ImageUrl" : "fs",
+        "Role" : "Employee",
+        "WorkStatus" : "Cancelled",
+        "Dob" : "25/04/2002"
+    },
+    {
+        "employeeId" : "20071A0508",
+        "Name" : "Shiva Teja",
+        "PhoneNumber" : "9704401708",
+        "MailId" : "shivateja@gmail.com",
+        "Gender" : "Male",
+        "ImageUrl" : "sfd",
+        "Role" : "Manager",
+        "WorkStatus" : "Started",
+        "Dob" : "28/05/2003"
+    },
+    {
+        "employeeId" : "20071A0509",
+        "Name" : "Rishab",
+        "PhoneNumber" : "3204401708",
+        "MailId" : "rishab@gmail.com",
+        "Gender" : "Male",
+        "ImageUrl" : "sfd",
+        "Role" : "Employee",
+        "WorkStatus" : "Started",
+        "Dob" : "12/03/2002"
+    }
+]
